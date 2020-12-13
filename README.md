@@ -1,7 +1,7 @@
 # Evolutionary_Computation
 Evolutionary computational techniques to solve NP hard problems.
 
-0
+
 We have tackle two computationally hard problems with evolutionary computation techniques
 
 1) Production Planning in a Petrochemical Industry 
